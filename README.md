@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hello fellas! I'm Gus and welcome to my Github 👋
+
 🎓 I'm a Robotics and Digital Systems Engineer
+
 🔭 I'm eager to collaborate on research projects in the field of robotics
+
 🌱 I'm passionate about robotics, python, ROS, computer vision and AI
+
 📫 You can reach me out at: jgusbc@hotmail.com or at my [Linkedin](https://www.linkedin.com/in/jgusbc/)
 <!--
 **Jgusbc/Jgusbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
